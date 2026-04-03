@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog 1 on Báo cáo thực tập</title>
-    <link>http://localhost:1313/AWS_WORKLOG/vi/3-blogstranslated/3.1-blog1/</link>
-    <description>Recent content in Blog 1 on Báo cáo thực tập</description>
+    <title>Cong bo Amazon Aurora PostgreSQL serverless co the tao co so du lieu trong vai giay on Báo cáo thực tập</title>
+    <link>https://baohoang2005.github.io/AWS_WORKLOG/vi/3-blogstranslated/3.1-blog1/</link>
+    <description>Recent content in Cong bo Amazon Aurora PostgreSQL serverless co the tao co so du lieu trong vai giay on Báo cáo thực tập</description>
     <generator>Hugo</generator>
     <language>vi</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/AWS_WORKLOG/vi/3-blogstranslated/3.1-blog1/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://baohoang2005.github.io/AWS_WORKLOG/vi/3-blogstranslated/3.1-blog1/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
